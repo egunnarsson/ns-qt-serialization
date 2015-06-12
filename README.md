@@ -1,0 +1,1 @@
+# ns-qt-serialization
